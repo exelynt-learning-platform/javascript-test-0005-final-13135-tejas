@@ -1,3 +1,7 @@
+/**
+ * Generates a number pattern with increasing numbers.
+ * @param {number} totalRows - Total number of rows to print.
+ */
 function generateNumberPattern(totalRows) {
     let currentNumber = 1;
 
